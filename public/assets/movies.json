@@ -1,0 +1,67 @@
+{
+  "movies": [
+    {
+      "movieName": "The Batman",
+      "description": "",
+      "actors": [],
+      "generes": [],
+      "ratings": [],
+      "reviews": [],
+      "calculatedRating": "8.7"
+    },
+    {
+      "movieName": "The Batman",
+      "description": "",
+      "actors": [],
+      "generes": [],
+      "ratings": [],
+      "reviews": [],
+      "calculatedRating": "8.7"
+    },
+    {
+      "movieName": "The Batman",
+      "description": "",
+      "actors": [],
+      "generes": [],
+      "ratings": [],
+      "reviews": [],
+      "calculatedRating": "8.7"
+    },
+    {
+      "movieName": "The Batman",
+      "description": "",
+      "actors": [],
+      "generes": [],
+      "ratings": [],
+      "reviews": [],
+      "calculatedRating": "8.7"
+    },
+    {
+      "movieName": "The Batman",
+      "description": "",
+      "actors": [],
+      "generes": [],
+      "ratings": [],
+      "reviews": [],
+      "calculatedRating": "8.7"
+    },
+    {
+      "movieName": "The Batman",
+      "description": "",
+      "actors": [],
+      "generes": [],
+      "ratings": [],
+      "reviews": [],
+      "calculatedRating": "8.7"
+    },
+    {
+      "movieName": "The Batman",
+      "description": "",
+      "actors": [],
+      "generes": [],
+      "ratings": [],
+      "reviews": [],
+      "calculatedRating": "8.7"
+    }
+  ]
+}
