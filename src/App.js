@@ -5,11 +5,9 @@ import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 function App() {
   return (
     <Router>
-      <Link to="/login">Login</Link>
-      <Link to="/movies">Movies</Link>
       <Routes>
         <Route path="/login" element={<Login />}></Route>
-        <Route path="/movies" element={<Movies />}></Route>
+        <Route path="/" element={<Movies />}></Route>
       </Routes>
     </Router>
   );

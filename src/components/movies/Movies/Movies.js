@@ -1,6 +1,8 @@
 import React from "react";
 import axios from "axios";
 import Movie from "../Movie/Movie";
+import "./Movies.css";
+import { Box } from "@mui/material";
 export default function Movies() {
   const [movies, setMovies] = React.useState([]);
 
@@ -16,10 +18,10 @@ export default function Movies() {
   }, []);
 
   return (
-    <div>
+    <Box className="movies">
       {movies.map((movie, index) => {
         return <Movie movie={movie} key={index} />;
       })}
-    </div>
+    </Box>
   );
 }

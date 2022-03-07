@@ -1,0 +1,11 @@
+.movies {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.movies .MuiPaper-root {
+  width: 300px;
+  margin: 0 15px;
+}
