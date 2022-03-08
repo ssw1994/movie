@@ -17,6 +17,7 @@ export default function Movie({ movie }) {
       <CardContent>
         <Typography>{description}</Typography>
         <Typography>{calculatedRating}</Typography>
+        <h1>Demo Change</h1>
       </CardContent>
     </Card>
   );
